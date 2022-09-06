@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "react-demo-190e5"
-  }
+    "default": "react-deploy-5d0a6",
+    "staging": "react-deploy-5d0a6"
+  },
+  "targets": {},
+  "etags": {}
 }
